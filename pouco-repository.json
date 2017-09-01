@@ -1,0 +1,25 @@
+{
+	"schema_version":"3.0.0",
+	"packages": [
+		{
+			"name": "pobfusc",
+			"details": "https://github.com/pouco26/pobfusc",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "peditor",
+			"details": "https://github.com/pouco26/peditor",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}
