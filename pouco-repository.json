@@ -20,16 +20,6 @@
 					"tags": true
 				}
 			]
-		},
-		{
-			"name": "Log Highlight",
-			"details": "https://github.com/pouco26/Log-Highlight",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
 		}
 	]
 }
