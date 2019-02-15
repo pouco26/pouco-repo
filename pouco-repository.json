@@ -20,6 +20,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "LikeGit",
+			"details": "https://github.com/poucotm/LikeGit",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		}
 	]
 }
