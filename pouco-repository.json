@@ -22,8 +22,8 @@
 			]
 		},
 		{
-			"name": "LikeGit",
-			"details": "https://github.com/poucotm/LikeGit",
+			"name": "Snippets",
+			"details": "https://github.com/poucotm/Snippets",
 			"releases": [
 				{
 					"sublime_text": "*",
